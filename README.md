@@ -19,6 +19,6 @@ Tecnologia usadas :
 
 -Css (nativo)
 
--SweetAlet 
+-SweetAlert2 
 
 -Midjourney
