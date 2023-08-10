@@ -2,7 +2,7 @@
 
 E-commerce ficticio hecho con Javascript y React : 
 
-De tematica fantastica use Midjouney para las imagenes y estilos pixelart 
+Basado en tematica fantastica, implemente Midjouney para las imagenes y estilos pixelart 
 
 ![Captura](https://github.com/EmanuelIniguez/stickerstore.github.io/assets/84642858/41b19040-5a33-45f3-8ade-5bbd63d46091) 
 
