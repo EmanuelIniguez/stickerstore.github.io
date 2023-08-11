@@ -2,7 +2,9 @@
 
 E-commerce ficticio hecho con Javascript y React : 
 
-Basado en tematica fantastica, implemente Midjouney para las imagenes y estilos pixelart 
+Basado en tematica fantastica, implemente Midjouney para las imagenes y estilos pixelart  
+
+El live de la app : https://emanueliniguez.github.io/stickerstore.github.io/
 
 ![Captura](https://github.com/EmanuelIniguez/stickerstore.github.io/assets/84642858/e3254153-f5ac-4ce4-8d9d-880d2d945615)
 
